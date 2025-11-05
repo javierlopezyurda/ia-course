@@ -2,7 +2,7 @@
 
 Final project for the Building AI course
 
-##Summary
+## Summary
 
 This AI takes the list of books a user has read as input and generates personalized book recommendations. It can consider various sources such as Goodreads, Google Books, and other online book databases to create the most relevant suggestions.
 
