@@ -1,4 +1,4 @@
-## Book Recommender
+# Book Recommender
 
 Final project for the Building AI course
 
